@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://unguelib.github.io/sitemap.html.gz
+Sitemap: https://unguelib.github.io/app/sitemap.html.gz
+Sitemap: https://unguelib.github.io/assets/sitemap.html.gz
+Sitemap: https://unguelib.github.io/css/sitemap.html.gz
+Sitemap: https://unguelib.github.io/includes/sitemap.html.gz
+Sitemap: https://unguelib.github.io/item/sitemap.html.gz
+Sitemap: https://unguelib.github.io/src/sitemap.html.gz
